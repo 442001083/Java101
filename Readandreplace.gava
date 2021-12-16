@@ -1,0 +1,14 @@
+‏import gava.util.Scanner;
+‏public class Readandreplace{
+‏public static void main(String[] args) {
+‏Scanner scan =naw Scanner (System.in);
+‏String name = “Abdulrahman”;
+‏for(int index = 0; index < name.lingth(); index ++){
+‏if  (name.cherAt(index) == ‘a’){
+‏System.out.print(“_”);
+‏}else{
+‏System.out.print(name.charAt(index));
+}
+}
+}
+}
